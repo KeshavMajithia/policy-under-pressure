@@ -1,0 +1,470 @@
+{
+  "experiment": "sensitivity",
+  "seeds": [
+    4001,
+    4002,
+    4003,
+    4004,
+    4005
+  ],
+  "configs": [
+    "baseline",
+    "minus_20",
+    "minus_10",
+    "plus_10",
+    "plus_20"
+  ],
+  "raw_data": {
+    "RL": {
+      "baseline": [
+        {
+          "seed": 4001,
+          "total_reward": 19939.993168812245,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0
+        },
+        {
+          "seed": 4002,
+          "total_reward": 19939.993168812245,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0
+        },
+        {
+          "seed": 4003,
+          "total_reward": 19939.993168812245,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0
+        },
+        {
+          "seed": 4004,
+          "total_reward": 19939.993168812245,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0
+        },
+        {
+          "seed": 4005,
+          "total_reward": 19939.993168812245,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0
+        }
+      ],
+      "minus_20": [
+        {
+          "seed": 4001,
+          "total_reward": 19934.350067723542,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.007349841762334108
+        },
+        {
+          "seed": 4002,
+          "total_reward": 19934.350067723542,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.007349841762334108
+        },
+        {
+          "seed": 4003,
+          "total_reward": 19934.350067723542,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.007349841762334108
+        },
+        {
+          "seed": 4004,
+          "total_reward": 19934.350067723542,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.007349841762334108
+        },
+        {
+          "seed": 4005,
+          "total_reward": 19934.350067723542,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.007349841762334108
+        }
+      ],
+      "minus_10": [
+        {
+          "seed": 4001,
+          "total_reward": 19985.910825219005,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.0005066756857559085
+        },
+        {
+          "seed": 4002,
+          "total_reward": 19985.910825219005,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.0005066756857559085
+        },
+        {
+          "seed": 4003,
+          "total_reward": 19985.910825219005,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.0005066756857559085
+        },
+        {
+          "seed": 4004,
+          "total_reward": 19985.910825219005,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.0005066756857559085
+        },
+        {
+          "seed": 4005,
+          "total_reward": 19985.910825219005,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.0005066756857559085
+        }
+      ],
+      "plus_10": [
+        {
+          "seed": 4001,
+          "total_reward": 19986.11733670719,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.0005024895654059947
+        },
+        {
+          "seed": 4002,
+          "total_reward": 19986.11733670719,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.0005024895654059947
+        },
+        {
+          "seed": 4003,
+          "total_reward": 19986.11733670719,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.0005024895654059947
+        },
+        {
+          "seed": 4004,
+          "total_reward": 19986.11733670719,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.0005024895654059947
+        },
+        {
+          "seed": 4005,
+          "total_reward": 19986.11733670719,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.0005024895654059947
+        }
+      ],
+      "plus_20": [
+        {
+          "seed": 4001,
+          "total_reward": 19984.029471978545,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.0005259941681288183
+        },
+        {
+          "seed": 4002,
+          "total_reward": 19984.029471978545,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.0005259941681288183
+        },
+        {
+          "seed": 4003,
+          "total_reward": 19984.029471978545,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.0005259941681288183
+        },
+        {
+          "seed": 4004,
+          "total_reward": 19984.029471978545,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.0005259941681288183
+        },
+        {
+          "seed": 4005,
+          "total_reward": 19984.029471978545,
+          "mean_speed": 0.0,
+          "lat_error_rms": 0.0,
+          "divergence": 0.0005259941681288183
+        }
+      ]
+    },
+    "ES": {
+      "baseline": [
+        {
+          "seed": 4001,
+          "total_reward": 15836.145536661219,
+          "mean_speed": 1.6288758516311646,
+          "lat_error_rms": 0.3330879509449005
+        },
+        {
+          "seed": 4002,
+          "total_reward": 15836.145536661219,
+          "mean_speed": 1.6288758516311646,
+          "lat_error_rms": 0.3330879509449005
+        },
+        {
+          "seed": 4003,
+          "total_reward": 15836.145536661219,
+          "mean_speed": 1.6288758516311646,
+          "lat_error_rms": 0.3330879509449005
+        },
+        {
+          "seed": 4004,
+          "total_reward": 15836.145536661219,
+          "mean_speed": 1.6288758516311646,
+          "lat_error_rms": 0.3330879509449005
+        },
+        {
+          "seed": 4005,
+          "total_reward": 15836.145536661219,
+          "mean_speed": 1.6288758516311646,
+          "lat_error_rms": 0.3330879509449005
+        }
+      ],
+      "minus_20": [
+        {
+          "seed": 4001,
+          "total_reward": 15881.605527741416,
+          "mean_speed": 1.5940401554107666,
+          "lat_error_rms": 0.33111047744750977,
+          "divergence": 0.9757266709507316
+        },
+        {
+          "seed": 4002,
+          "total_reward": 15881.605527741416,
+          "mean_speed": 1.5940401554107666,
+          "lat_error_rms": 0.33111047744750977,
+          "divergence": 0.9757266709507316
+        },
+        {
+          "seed": 4003,
+          "total_reward": 15881.605527741416,
+          "mean_speed": 1.5940401554107666,
+          "lat_error_rms": 0.33111047744750977,
+          "divergence": 0.9757266709507316
+        },
+        {
+          "seed": 4004,
+          "total_reward": 15881.605527741416,
+          "mean_speed": 1.5940401554107666,
+          "lat_error_rms": 0.33111047744750977,
+          "divergence": 0.9757266709507316
+        },
+        {
+          "seed": 4005,
+          "total_reward": 15881.605527741416,
+          "mean_speed": 1.5940401554107666,
+          "lat_error_rms": 0.33111047744750977,
+          "divergence": 0.9757266709507316
+        }
+      ],
+      "minus_10": [
+        {
+          "seed": 4001,
+          "total_reward": 15853.027654087975,
+          "mean_speed": 1.6153147220611572,
+          "lat_error_rms": 0.3362301290035248,
+          "divergence": 1.009359463395124
+        },
+        {
+          "seed": 4002,
+          "total_reward": 15853.027654087975,
+          "mean_speed": 1.6153147220611572,
+          "lat_error_rms": 0.3362301290035248,
+          "divergence": 1.009359463395124
+        },
+        {
+          "seed": 4003,
+          "total_reward": 15853.027654087975,
+          "mean_speed": 1.6153147220611572,
+          "lat_error_rms": 0.3362301290035248,
+          "divergence": 1.009359463395124
+        },
+        {
+          "seed": 4004,
+          "total_reward": 15853.027654087975,
+          "mean_speed": 1.6153147220611572,
+          "lat_error_rms": 0.3362301290035248,
+          "divergence": 1.009359463395124
+        },
+        {
+          "seed": 4005,
+          "total_reward": 15853.027654087975,
+          "mean_speed": 1.6153147220611572,
+          "lat_error_rms": 0.3362301290035248,
+          "divergence": 1.009359463395124
+        }
+      ],
+      "plus_10": [
+        {
+          "seed": 4001,
+          "total_reward": 15890.516893894333,
+          "mean_speed": 1.4865000247955322,
+          "lat_error_rms": 0.35058486461639404,
+          "divergence": 0.908360143968142
+        },
+        {
+          "seed": 4002,
+          "total_reward": 15890.516893894333,
+          "mean_speed": 1.4865000247955322,
+          "lat_error_rms": 0.35058486461639404,
+          "divergence": 0.908360143968142
+        },
+        {
+          "seed": 4003,
+          "total_reward": 15890.516893894333,
+          "mean_speed": 1.4865000247955322,
+          "lat_error_rms": 0.35058486461639404,
+          "divergence": 0.908360143968142
+        },
+        {
+          "seed": 4004,
+          "total_reward": 15890.516893894333,
+          "mean_speed": 1.4865000247955322,
+          "lat_error_rms": 0.35058486461639404,
+          "divergence": 0.908360143968142
+        },
+        {
+          "seed": 4005,
+          "total_reward": 15890.516893894333,
+          "mean_speed": 1.4865000247955322,
+          "lat_error_rms": 0.35058486461639404,
+          "divergence": 0.908360143968142
+        }
+      ],
+      "plus_20": [
+        {
+          "seed": 4001,
+          "total_reward": 19384.69895387841,
+          "mean_speed": 1.7609829902648926,
+          "lat_error_rms": 0.3192004859447479,
+          "divergence": 1.0410835150357873
+        },
+        {
+          "seed": 4002,
+          "total_reward": 19384.69895387841,
+          "mean_speed": 1.7609829902648926,
+          "lat_error_rms": 0.3192004859447479,
+          "divergence": 1.0410835150357873
+        },
+        {
+          "seed": 4003,
+          "total_reward": 19384.69895387841,
+          "mean_speed": 1.7609829902648926,
+          "lat_error_rms": 0.3192004859447479,
+          "divergence": 1.0410835150357873
+        },
+        {
+          "seed": 4004,
+          "total_reward": 19384.69895387841,
+          "mean_speed": 1.7609829902648926,
+          "lat_error_rms": 0.3192004859447479,
+          "divergence": 1.0410835150357873
+        },
+        {
+          "seed": 4005,
+          "total_reward": 19384.69895387841,
+          "mean_speed": 1.7609829902648926,
+          "lat_error_rms": 0.3192004859447479,
+          "divergence": 1.0410835150357873
+        }
+      ]
+    }
+  },
+  "aggregated": {
+    "RL": {
+      "baseline": {
+        "mean_reward": 19939.993168812245,
+        "std_reward": 0.0,
+        "mean_speed": 0.0,
+        "mean_lat_error": 0.0
+      },
+      "minus_20": {
+        "mean_reward": 19934.350067723542,
+        "std_reward": 0.0,
+        "mean_speed": 0.0,
+        "mean_lat_error": 0.0,
+        "mean_divergence": 0.007349841762334108,
+        "std_divergence": 0.0
+      },
+      "minus_10": {
+        "mean_reward": 19985.910825219005,
+        "std_reward": 0.0,
+        "mean_speed": 0.0,
+        "mean_lat_error": 0.0,
+        "mean_divergence": 0.0005066756857559085,
+        "std_divergence": 0.0
+      },
+      "plus_10": {
+        "mean_reward": 19986.11733670719,
+        "std_reward": 0.0,
+        "mean_speed": 0.0,
+        "mean_lat_error": 0.0,
+        "mean_divergence": 0.0005024895654059947,
+        "std_divergence": 0.0
+      },
+      "plus_20": {
+        "mean_reward": 19984.029471978545,
+        "std_reward": 0.0,
+        "mean_speed": 0.0,
+        "mean_lat_error": 0.0,
+        "mean_divergence": 0.0005259941681288183,
+        "std_divergence": 0.0
+      }
+    },
+    "ES": {
+      "baseline": {
+        "mean_reward": 15836.145536661217,
+        "std_reward": 1.8189894035458565e-12,
+        "mean_speed": 1.6288758516311646,
+        "mean_lat_error": 0.3330879509449005
+      },
+      "minus_20": {
+        "mean_reward": 15881.605527741416,
+        "std_reward": 0.0,
+        "mean_speed": 1.5940401554107666,
+        "mean_lat_error": 0.33111047744750977,
+        "mean_divergence": 0.9757266709507316,
+        "std_divergence": 0.0
+      },
+      "minus_10": {
+        "mean_reward": 15853.027654087975,
+        "std_reward": 0.0,
+        "mean_speed": 1.6153147220611572,
+        "mean_lat_error": 0.3362301290035248,
+        "mean_divergence": 1.009359463395124,
+        "std_divergence": 0.0
+      },
+      "plus_10": {
+        "mean_reward": 15890.516893894333,
+        "std_reward": 0.0,
+        "mean_speed": 1.4865000247955322,
+        "mean_lat_error": 0.35058486461639404,
+        "mean_divergence": 0.908360143968142,
+        "std_divergence": 0.0
+      },
+      "plus_20": {
+        "mean_reward": 19384.69895387841,
+        "std_reward": 0.0,
+        "mean_speed": 1.7609829902648926,
+        "mean_lat_error": 0.3192004859447479,
+        "mean_divergence": 1.0410835150357873,
+        "std_divergence": 0.0
+      }
+    }
+  },
+  "summary": {
+    "rl_reward_variance": 560.8502798056155,
+    "es_reward_variance": 1982140.5902696722,
+    "sensitivity_ratio": 0.00028295181611174636
+  }
+}

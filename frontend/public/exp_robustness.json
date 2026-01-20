@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "experiment": "Robustness to Observation Noise",
+    "noise_levels": [
+      0.0,
+      0.1,
+      0.3,
+      0.5,
+      0.8,
+      1.0
+    ],
+    "agents": [
+      "RL",
+      "ES"
+    ]
+  },
+  "results": {
+    "RL": [
+      {
+        "noise": 0.0,
+        "mean_reward": 33.795249938964844,
+        "std_reward": 2.9511961936950684,
+        "success_rate": 1.0,
+        "mean_length": 98.95
+      },
+      {
+        "noise": 0.1,
+        "mean_reward": 31.847360610961914,
+        "std_reward": 2.3771421909332275,
+        "success_rate": 1.0,
+        "mean_length": 94.95
+      },
+      {
+        "noise": 0.3,
+        "mean_reward": 32.884178161621094,
+        "std_reward": 3.0060579776763916,
+        "success_rate": 1.0,
+        "mean_length": 97.1
+      },
+      {
+        "noise": 0.5,
+        "mean_reward": 31.524667739868164,
+        "std_reward": 2.94061541557312,
+        "success_rate": 1.0,
+        "mean_length": 94.5
+      },
+      {
+        "noise": 0.8,
+        "mean_reward": 28.321392059326172,
+        "std_reward": 6.308032035827637,
+        "success_rate": 1.0,
+        "mean_length": 88.2
+      },
+      {
+        "noise": 1.0,
+        "mean_reward": 23.209903717041016,
+        "std_reward": 5.78240442276001,
+        "success_rate": 1.0,
+        "mean_length": 78.8
+      }
+    ],
+    "ES": [
+      {
+        "noise": 0.0,
+        "mean_reward": 48.26978302001953,
+        "std_reward": 0.0,
+        "success_rate": 1.0,
+        "mean_length": 144.0
+      },
+      {
+        "noise": 0.1,
+        "mean_reward": 46.394412994384766,
+        "std_reward": 0.475088894367218,
+        "success_rate": 1.0,
+        "mean_length": 144.85
+      },
+      {
+        "noise": 0.3,
+        "mean_reward": 43.9129638671875,
+        "std_reward": 0.7278664708137512,
+        "success_rate": 1.0,
+        "mean_length": 148.35
+      },
+      {
+        "noise": 0.5,
+        "mean_reward": 42.595359802246094,
+        "std_reward": 1.857374906539917,
+        "success_rate": 1.0,
+        "mean_length": 152.75
+      },
+      {
+        "noise": 0.8,
+        "mean_reward": 42.52779006958008,
+        "std_reward": 1.2977393865585327,
+        "success_rate": 1.0,
+        "mean_length": 155.8
+      },
+      {
+        "noise": 1.0,
+        "mean_reward": 39.46689224243164,
+        "std_reward": 5.465514183044434,
+        "success_rate": 1.0,
+        "mean_length": 159.65
+      }
+    ]
+  }
+}

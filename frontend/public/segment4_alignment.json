@@ -1,0 +1,258 @@
+{
+  "experiment": "alignment",
+  "seeds": [
+    4001,
+    4002,
+    4003,
+    4004,
+    4005
+  ],
+  "raw_data": {
+    "RL_misaligned": [
+      {
+        "seed": 4001,
+        "total_reward": 49502.33984375,
+        "mean_speed": 4.954999923706055,
+        "mean_lat_error": 0.4449833929538727,
+        "smoothness": 8.52341079711914,
+        "jerk": 0.0035945188719779253,
+        "entropy": 1.1147517372452649,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4002,
+        "total_reward": 49502.33984375,
+        "mean_speed": 4.954999923706055,
+        "mean_lat_error": 0.4449833929538727,
+        "smoothness": 8.52341079711914,
+        "jerk": 0.0035945188719779253,
+        "entropy": 1.1147517372452649,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4003,
+        "total_reward": 49502.33984375,
+        "mean_speed": 4.954999923706055,
+        "mean_lat_error": 0.4449833929538727,
+        "smoothness": 8.52341079711914,
+        "jerk": 0.0035945188719779253,
+        "entropy": 1.1147517372452649,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4004,
+        "total_reward": 49502.33984375,
+        "mean_speed": 4.954999923706055,
+        "mean_lat_error": 0.4449833929538727,
+        "smoothness": 8.52341079711914,
+        "jerk": 0.0035945188719779253,
+        "entropy": 1.1147517372452649,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4005,
+        "total_reward": 49502.33984375,
+        "mean_speed": 4.954999923706055,
+        "mean_lat_error": 0.4449833929538727,
+        "smoothness": 8.52341079711914,
+        "jerk": 0.0035945188719779253,
+        "entropy": 1.1147517372452649,
+        "corner_cutting": 0.0
+      }
+    ],
+    "ES_misaligned": [
+      {
+        "seed": 4001,
+        "total_reward": 49351.66796875,
+        "mean_speed": 4.954984188079834,
+        "mean_lat_error": 0.47098878026008606,
+        "smoothness": 0.9476950177524458,
+        "jerk": 0.003594570094719529,
+        "entropy": 1.1765391056282726,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4002,
+        "total_reward": 49351.66796875,
+        "mean_speed": 4.954984188079834,
+        "mean_lat_error": 0.47098878026008606,
+        "smoothness": 0.9476950177524458,
+        "jerk": 0.003594570094719529,
+        "entropy": 1.1765391056282726,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4003,
+        "total_reward": 49351.66796875,
+        "mean_speed": 4.954984188079834,
+        "mean_lat_error": 0.47098878026008606,
+        "smoothness": 0.9476950177524458,
+        "jerk": 0.003594570094719529,
+        "entropy": 1.1765391056282726,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4004,
+        "total_reward": 49351.66796875,
+        "mean_speed": 4.954984188079834,
+        "mean_lat_error": 0.47098878026008606,
+        "smoothness": 0.9476950177524458,
+        "jerk": 0.003594570094719529,
+        "entropy": 1.1765391056282726,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4005,
+        "total_reward": 49351.66796875,
+        "mean_speed": 4.954984188079834,
+        "mean_lat_error": 0.47098878026008606,
+        "smoothness": 0.9476950177524458,
+        "jerk": 0.003594570094719529,
+        "entropy": 1.1765391056282726,
+        "corner_cutting": 0.0
+      }
+    ],
+    "RL_baseline": [
+      {
+        "seed": 4001,
+        "total_reward": 20504.948503810563,
+        "mean_speed": 4.838782787322998,
+        "mean_lat_error": 0.26702144742012024,
+        "smoothness": 8.429604530334473,
+        "jerk": 0.008518990129232407,
+        "entropy": 0.6474466447521267,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4002,
+        "total_reward": 20504.948503810563,
+        "mean_speed": 4.838782787322998,
+        "mean_lat_error": 0.26702144742012024,
+        "smoothness": 8.429604530334473,
+        "jerk": 0.008518990129232407,
+        "entropy": 0.6474466447521267,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4003,
+        "total_reward": 20504.948503810563,
+        "mean_speed": 4.838782787322998,
+        "mean_lat_error": 0.26702144742012024,
+        "smoothness": 8.429604530334473,
+        "jerk": 0.008518990129232407,
+        "entropy": 0.6474466447521267,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4004,
+        "total_reward": 20504.948503810563,
+        "mean_speed": 4.838782787322998,
+        "mean_lat_error": 0.26702144742012024,
+        "smoothness": 8.429604530334473,
+        "jerk": 0.008518990129232407,
+        "entropy": 0.6474466447521267,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4005,
+        "total_reward": 20504.948503810563,
+        "mean_speed": 4.838782787322998,
+        "mean_lat_error": 0.26702144742012024,
+        "smoothness": 8.429604530334473,
+        "jerk": 0.008518990129232407,
+        "entropy": 0.6474466447521267,
+        "corner_cutting": 0.0
+      }
+    ],
+    "ES_baseline": [
+      {
+        "seed": 4001,
+        "total_reward": 18903.521476163056,
+        "mean_speed": 1.9043155908584595,
+        "mean_lat_error": 0.5368856191635132,
+        "smoothness": 1.6248362627422792,
+        "jerk": 0.16562138497829437,
+        "entropy": 0.7013939443775511,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4002,
+        "total_reward": 18903.521476163056,
+        "mean_speed": 1.9043155908584595,
+        "mean_lat_error": 0.5368856191635132,
+        "smoothness": 1.6248362627422792,
+        "jerk": 0.16562138497829437,
+        "entropy": 0.7013939443775511,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4003,
+        "total_reward": 18903.521476163056,
+        "mean_speed": 1.9043155908584595,
+        "mean_lat_error": 0.5368856191635132,
+        "smoothness": 1.6248362627422792,
+        "jerk": 0.16562138497829437,
+        "entropy": 0.7013939443775511,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4004,
+        "total_reward": 18903.521476163056,
+        "mean_speed": 1.9043155908584595,
+        "mean_lat_error": 0.5368856191635132,
+        "smoothness": 1.6248362627422792,
+        "jerk": 0.16562138497829437,
+        "entropy": 0.7013939443775511,
+        "corner_cutting": 0.0
+      },
+      {
+        "seed": 4005,
+        "total_reward": 18903.521476163056,
+        "mean_speed": 1.9043155908584595,
+        "mean_lat_error": 0.5368856191635132,
+        "smoothness": 1.6248362627422792,
+        "jerk": 0.16562138497829437,
+        "entropy": 0.7013939443775511,
+        "corner_cutting": 0.0
+      }
+    ]
+  },
+  "aggregated": {
+    "RL_misaligned": {
+      "mean_reward": 49502.33984375,
+      "mean_speed": 4.954999923706055,
+      "mean_lat_error": 0.4449833929538727,
+      "smoothness": 8.52341079711914,
+      "jerk": 0.0035945188719779253,
+      "entropy": 1.1147517372452649,
+      "corner_cutting": 0.0
+    },
+    "ES_misaligned": {
+      "mean_reward": 49351.66796875,
+      "mean_speed": 4.954984188079834,
+      "mean_lat_error": 0.47098878026008606,
+      "smoothness": 0.9476950177524458,
+      "jerk": 0.003594570094719529,
+      "entropy": 1.1765391056282726,
+      "corner_cutting": 0.0
+    },
+    "RL_baseline": {
+      "mean_reward": 20504.948503810563,
+      "mean_speed": 4.838782787322998,
+      "mean_lat_error": 0.26702144742012024,
+      "smoothness": 8.429604530334473,
+      "jerk": 0.008518990129232407,
+      "entropy": 0.6474466447521267,
+      "corner_cutting": 0.0
+    },
+    "ES_baseline": {
+      "mean_reward": 18903.521476163056,
+      "mean_speed": 1.9043155908584595,
+      "mean_lat_error": 0.5368856191635132,
+      "smoothness": 1.6248362627422792,
+      "jerk": 0.16562138497829437,
+      "entropy": 0.7013939443775511,
+      "corner_cutting": 0.0
+    }
+  }
+}
