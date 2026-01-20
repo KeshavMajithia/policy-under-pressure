@@ -204,22 +204,6 @@ All experiments were run **once** and results saved as JSON:
 
 ---
 
-## 📝 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@misc{policyunderpressure2026,
-  title={Policy Under Pressure: Adversarial Testing of RL vs ES},
-  author={Keshav Majithia},
-  year={2026},
-  howpublished={\url{https://your-deployment-url.vercel.app}},
-  email={majithiakeshav@gmail.com}
-}
-```
-
----
-
 ## 🤝 Contributing
 
 This is a completed research project, but feedback and discussions are welcome!
