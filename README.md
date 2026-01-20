@@ -213,7 +213,8 @@ If you use this work in your research, please cite:
   title={Policy Under Pressure: Adversarial Testing of RL vs ES},
   author={Keshav Majithia},
   year={2026},
-  howpublished={\url{https://your-deployment-url.vercel.app}}
+  howpublished={\url{https://your-deployment-url.vercel.app}},
+  email={majithiakeshav@gmail.com}
 }
 ```
 
@@ -239,8 +240,7 @@ MIT License - see `LICENSE` file for details
 
 **Keshav Majithia**
 - 🔗 [LinkedIn](https://linkedin.com/in/keshav-m-9a2701252)
-- 🐦 [Twitter](https://twitter.com/keshav_m__)
-- 📧 [Email](mailto:keshavmajithia13@gmail.com)
+- 📧 [Email](mailto:majithiakeshav@gmail.com)
 
 ---
 
